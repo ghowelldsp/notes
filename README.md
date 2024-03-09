@@ -1,1 +1,3 @@
-# notes
+# Notes
+
+A collection of notes.

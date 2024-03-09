@@ -1,0 +1,3 @@
+[submodule "linear_algebra_notes"]
+	path = linear_algebra_notes
+	url = git@github.com:ghowelldsp/linear_algebra_notes.git
