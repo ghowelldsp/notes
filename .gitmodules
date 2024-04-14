@@ -1,3 +1,6 @@
 [submodule "linear_algebra_notes"]
 	path = linear_algebra_notes
 	url = git@github.com:ghowelldsp/linear_algebra_notes.git
+[submodule "engineering_maths_notes"]
+	path = engineering_maths_notes
+	url = https://github.com/ghowelldsp/engineering_maths_notes.git
